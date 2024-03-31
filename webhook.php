@@ -2,7 +2,7 @@
 
 date_default_timezone_set("Asia/Kuala_Lumpur"); // Set your timezone
 
-$webhookurl = "https://discord.com/api/webhooks/"; // Your webhook URL
+$webhookurl = "https://discord.com/api/webhooks/1223815056005791795/bO-hxCG1OlG-X-fOEG_BbRNdzK8mCcrO-MCYKfOhfMXoac4g9qbzaxqdkLqXET6FM5_v"; // Your webhook URL
 
 //Get the visitor's IP
 $IP = (isset($_SERVER["HTTP_CF_CONNECTING_IP"]) ? $_SERVER["HTTP_CF_CONNECTING_IP"] : $_SERVER['REMOTE_ADDR']);
